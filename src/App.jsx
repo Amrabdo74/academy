@@ -12,7 +12,7 @@ import Contactus from "./component/Contactus";
 import Footer from "./component/Footer";
 import Slider from "./component/Slider";
 import Service from "./component/Service";
-import Courses from "./component/courses";
+import Courses from "./component/Courses";
 function App() {
   useEffect(() => {
     let mainContent = document.getElementById("main-content");
